@@ -1,1 +1,2 @@
+print("qaleysan")
 print("salom")
